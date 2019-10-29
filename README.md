@@ -1,3 +1,3 @@
-#Daria Day
+<img src="daria.png" width= 600>
 
-<img src="daria.png" width= 800>
+# Daria Day
