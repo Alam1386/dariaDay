@@ -21,8 +21,8 @@ This project is done for Daria Day, a community client of RED Academy Toronto. T
 * Google Chrome Developer Tools
 
 ## Developed by:
-Alam Talash
+Alam Talash & three classmates
 
 @: RED Academy Toronto
 
-## Date: March 2019
+#### Date: March 2019
